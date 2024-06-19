@@ -29,7 +29,7 @@ O script `recaptcha_solver.py` contém uma classe `RecaptchaSolver` que facilita
 
 ### Script de Exemplo
 
-O [script exemplo]() mostra um exemplo de como utilizar a classe `RecaptchaSolver` para resolver um reCAPTCHA auditivo.
+O [script exemplo](https://github.com/wallesom/reCAPTCHA-Solver/blob/master/script_exemplo.py) mostra um exemplo de como utilizar a classe `RecaptchaSolver` para resolver um reCAPTCHA auditivo.
 
 ```python
 from selenium import webdriver
